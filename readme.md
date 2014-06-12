@@ -4,7 +4,9 @@
 
 * Python 2.7
 * ImageMagick
+* Tesseract installed
 * pytesser added to python path
+
 
 ## Executing
  
